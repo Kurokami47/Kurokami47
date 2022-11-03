@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kurokami47
+- 👋 Hi, I’m Jagannath Padhy
 - 👀 I’m interested in AI/ML and Biotechnology
 
 <!---
