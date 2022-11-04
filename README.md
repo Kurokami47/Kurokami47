@@ -4,6 +4,8 @@
 <!---
 Kurokami47/Kurokami47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+![personal website](https://img.shields.io/website-up-down-green-red/https/Kurokami47.com.svg)
 --->
 
 ## 🌟Skills
@@ -11,7 +13,7 @@ You can click the Preview link to take a look at your changes.
  
  ## 📈 Stats
 
-![view counter](https://komarev.com/ghpvc/?username=Kurokami47&label=Profile%20views&color=0e75b6&style=flat) ![personal website](https://img.shields.io/website-up-down-green-red/https/Kurokami47.com.svg)
+![view counter](https://komarev.com/ghpvc/?username=Kurokami47&label=Profile%20views&color=0e75b6&style=flat) 
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kurokami47&show_icons=true&locale=en&layout=compact" alt="Kurokami47" width="500" height="200"/>
     <br>
